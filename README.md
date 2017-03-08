@@ -1,5 +1,6 @@
-Edit 8/3/17 : 
-dotfiles git:(master) ✗ curl -Ls https://raw.githubusercontent.com/lewagon/setup/master/check.rb | ruby
+#Edit 8/3/17 : 
+- dotfiles git:(master) ✗ `curl -Ls https://raw.githubusercontent.com/lewagon/setup/master/check.rb | ruby`
+
 Checking shell...
 [OK] Your default shell is zsh
 Checking ruby version...
@@ -15,7 +16,7 @@ Checking ruby gems...
 
 🚀  Awesome! Your laptop is now ready for 9 weeks of hard work :)
 Now it's time to onboard on the Alumni platform 👉  alumni.lewagon.org/onboarding
-➜  dotfiles git:(master) ✗ 
+`➜  dotfiles git:(master) ✗ `
 
 
 
